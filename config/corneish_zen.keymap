@@ -58,7 +58,7 @@
                 };
 
                 both_layer {
-                        label = "CONFIG"
+                        label = "CONFIG";
                         // both layers + B = clear bluetooth for current profile
                         bindings = <
    &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
